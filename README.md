@@ -51,7 +51,7 @@ Hi there! I'm **Jagriti Bhandari**, a passionate Full-Stack Developer and an MSC
 - 💼 Former **SDE 2** (Specialist Programmer) at Infosys, building scalable enterprise-grade systems
 - ⚙️ Tech Stack: Java, Spring Boot, Python, React, Angular, Docker, Kubernetes, Jenkins, Redis, Kafka
 - ✨ Always exploring how to blend software engineering with impactful, real-world solutions
-- 🎓 **Scholarship Student** @ UIC, recognized for academic excellence and leadership
+- 🎓 Scholarship Student @ UIC — recipient of full-semester scholarships
 - 🏆 Among the top contestants in **HackWithInfy**, a nationwide coding competition that led to my placement at Infosys
 
 
