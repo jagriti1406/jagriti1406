@@ -45,12 +45,15 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Jagriti Bhandari**, a passionate Full-Stack Developer and an MSCS student at the University of Illinois Chicago. With hands-on experience across the stack—from crafting responsive UIs to building scalable backend services—I thrive on transforming complex problems into elegant solutions.
+Hi there! I'm **Jagriti Bhandari**, a passionate Full-Stack Developer and an MSCS student(4.0 GPA) at the University of Illinois Chicago. With hands-on experience across the stack—from crafting responsive UIs to building scalable backend services—I thrive on transforming complex problems into elegant solutions.
 
 - 🎓 **Graduate Assistant** @ UIC | Research & Development in secure systems
-- 💼 Former **SDE 2** at Infosys, building scalable enterprise-grade systems
+- 💼 Former **SDE 2** (Specialist Programmer) at Infosys, building scalable enterprise-grade systems
 - ⚙️ Tech Stack: Java, Spring Boot, Python, React, Angular, Docker, Kubernetes, Jenkins, Redis, Kafka
 - ✨ Always exploring how to blend software engineering with impactful, real-world solutions
+- 🎓 **Scholarship Student** @ UIC, recognized for academic excellence and leadership
+- 🏆 Among the top contestants in **HackWithInfy**, a nationwide coding competition that led to my placement at Infosys
+
 
 ---
 
