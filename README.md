@@ -117,3 +117,4 @@ Hi there! I'm **Jagriti Bhandari**, a passionate Full-Stack Developer and an MSC
 ## 🤹 Hobbies and Interests
 - *Coding Contests:* Active participant in coding contests, achieving top ranks and mentoring women in tech.
 - *Exploring Machine Learning Applications:* Passionate about applying ML to real-world challenges.
+- *Traveling:* Enjoy exploring new places and cultures to stay inspired and refreshed.
