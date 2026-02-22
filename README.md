@@ -43,23 +43,42 @@
 
 ---
 
-## 👋 About Me
+# Jagriti Bhandari
+### Lead Software Engineer | Distributed Systems | Cloud Architecture | Chicago, IL
 
-Hi there! I'm **Jagriti Bhandari**, a passionate Full-Stack Developer and an MSCS student(4.0 GPA) at the University of Illinois Chicago. With hands-on experience across the stack—from crafting responsive UIs to building scalable backend services—I thrive on transforming complex problems into elegant solutions.
-
-- 🎓 **Graduate Assistant** @ UIC | Research & Development in secure systems
-- 💼 Former **SDE 2** (Specialist Programmer) at Infosys, building scalable enterprise-grade systems
-- ⚙️ Tech Stack: Java, Spring Boot, Python, React, Angular, Docker, Kubernetes, Jenkins, Redis, Kafka
-- ✨ Always exploring how to blend software engineering with impactful, real-world solutions
-- 🎓 Scholarship Student @ UIC — recipient of full-semester scholarships
-- 🏆 Among the top contestants in **HackWithInfy**, a nationwide coding competition that led to my placement at Infosys
-
+Lead Software Engineer with 5+ years of experience architecting and delivering 
+enterprise-scale, distributed full-stack systems. Currently at Northern Trust, 
+owning end-to-end technical direction for a data protection platform handling 
+2M+ regulated records — including HLD/LLD, RBAC models, API architecture, and 
+compliance-aligned system design, delivered across cross-functional teams in a 
+regulated Agile environment.
 
 ---
 
+## 🏢 Experience
+- 🔹 **Lead Software Engineer** @ Northern Trust — Data Protection Platform (2M+ records, Azure)
+- 🔹 **Full Stack Developer** @ University of Illinois at Chicago
+- 🔹 **Software Engineer II** @ Infosys — Enterprise microservices (800K+ workflows)
+
+## 🏗️ What I Build
+- Distributed microservices handling millions of records at scale
+- Cloud-native platforms on Azure & AWS — end-to-end from HLD/LLD to production
+- Compliance-aligned, RBAC-secured enterprise systems
+- Event-driven architectures using Kafka for 100K+ concurrent users
+
+## 🎓 Education
+- M.S. Computer Science — University of Illinois at Chicago | GPA 4.0
+- B.Tech Computer Science — Jaypee Institute of Information Technology | GPA 3.6
+
+## 🏆 Achievements
+- 🥇 Winner — STG Make-a-thon Edition 10, Infosys company-wide hackathon
+- 🎖️ Certificate of Excellence — Q2 FY'22, Strategic Technology Group, Infosys
+- 🏆 HackWithInfy — Top contestant, Infosys nationwide coding competition
+- 🎓 Merit Scholarship Recipient — University of Illinois at Chicago
+
 ## 🚀 Technologies
 
-<!-- (Keep the tech stack badges as they are) -->
+
 
 #### Languages
 <p>
